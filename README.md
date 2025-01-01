@@ -50,4 +50,4 @@ Este é um **gerenciador de contatos** desenvolvido em Python que permite armaze
    
 3. Execute o programa:
    ```bash
-   python contatos.py
+   python tabela_contatos.py
